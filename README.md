@@ -11,7 +11,7 @@ Database : mySQL
 
 Contains the basic functionalities.
 
-
+Before running, run npm install to make sure all the node modules are installed.
 To run : run command npm start. This will call the app.js and start the application.
 
 The database has one table : tasks
