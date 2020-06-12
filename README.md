@@ -12,3 +12,10 @@ Database : mySQL
 Contains the basic functionalities.
 
 
+To run : run command npm start. This will call the app.js and start the application.
+
+The database has one table : tasks
+Columns : id, title and content.
+id is the primary key and aut generated. 
+All the columns are not null.
+
